@@ -1,6 +1,6 @@
 # Exercício de Programação em JavaScript
 
-#### Atividade do Curso em Vídeo [Curso em Vídeo](https://www.cursoemvideo.com/cursos/ "Curso em Vídeo") ministrado por [Gustavo Guanabara](https://www.cursoemvideo.com/sobre/ "Gustavo Guanabara")
+#### Atividade do [Curso em Vídeo](https://www.cursoemvideo.com/cursos/ "Curso em Vídeo") ministrado por [Gustavo Guanabara](https://www.cursoemvideo.com/sobre/ "Gustavo Guanabara")
 
 ![](https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png)
 
@@ -18,4 +18,4 @@ Criar uma página em HTML5, JS e CSS que exiba diferentes imagens de acordo com 
 ![](https://i.imgur.com/Cy0J412.png)
 
 #### Teste de página no Repl.it
-Confira o site funcionando no Repl.it[Repl.it](https://hora-do-dia.tgama85.repl.co/ "Repl.it").
+Confira o site funcionando no [Repl.it](https://hora-do-dia.tgama85.repl.co/ "Repl.it").
