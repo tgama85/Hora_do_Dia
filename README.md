@@ -16,3 +16,6 @@ Criar uma página em HTML5, JS e CSS que exiba diferentes imagens de acordo com 
 #### Mostra de página
 
 ![](https://i.imgur.com/Cy0J412.png)
+
+#### Teste de página no Repl.it
+Confira o site funcionando no Repl.it[Repl.it](https://hora-do-dia.tgama85.repl.co/ "Repl.it").
